@@ -220,6 +220,9 @@ In future improvements, I would configure a process manager such as PM2, use Ngi
 
 ## 14. Evidence
 
-Attach screenshots showing the actual EC2 configuration, Node.js installation, successful MongoDB connection, API response, frontend application, and completed course checks.
+Attached screenshots showing the actual EC2 configuration, Node.js installation, successful MongoDB connection, API response, frontend application, and completed course checks.
+
+Refer (mernscreenshot.docx)
+
 
 
