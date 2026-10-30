@@ -222,6 +222,55 @@ In future improvements, I would configure a process manager such as PM2, use Ngi
 
 Attached screenshots showing the actual EC2 configuration, Node.js installation, successful MongoDB connection, API response, frontend application, and completed course checks.
 
+Live Application
+
+Frontend URL: http://100.31.72.195:3000
+
+Backend API: http://100.31.72.195:3001/trip
+
+
+Instance State:
+
+<img width="959" height="472" alt="image" src="https://github.com/user-attachments/assets/87ffefba-97fa-453e-b890-b0d91708e60f" />
+
+
+Security Group:
+
+<img width="956" height="388" alt="image" src="https://github.com/user-attachments/assets/ee7f2263-6c49-47d4-9e05-ac51d75f3636" />
+
+
+Frontend API:
+
+http://100.31.72.195:3000/
+
+<img width="959" height="451" alt="image" src="https://github.com/user-attachments/assets/8ff961c2-a240-484f-a92b-f64916390d30" />
+
+Backend API:
+
+http://100.31.72.195:3001/trip
+
+<img width="959" height="472" alt="image" src="https://github.com/user-attachments/assets/ffb119b5-9af3-4ede-b21d-facf804a300c" />
+
+
+Terminal output:
+
+<img width="959" height="505" alt="image" src="https://github.com/user-attachments/assets/07c9bcf4-4921-490d-82a2-cd1264ef7a20" />
+
+Terminal Backend API response:
+
+<img width="966" height="503" alt="image" src="https://github.com/user-attachments/assets/c8ed91e3-5634-4301-a7cf-a62bc83e7d2b" />
+
+
+Mongo DB Connection:
+
+<img width="959" height="489" alt="image" src="https://github.com/user-attachments/assets/a7a972db-84cc-47e4-a224-8733b620b6e9" />
+
+
+Output screenshot of travel experience:
+
+<img width="959" height="460" alt="image" src="https://github.com/user-attachments/assets/f9b34372-78c3-4cd7-bc44-9c0f9f0f9429" />
+
+
 Refer (mernscreenshot.docx)
 
 
